@@ -1,0 +1,8 @@
+using the digits.txt file which contains a collection of comma seperated digits, you need to programmatically read the values into code, calculate and print each of the following to the console:
+- the total count of comma seperated digits
+- the sum of all the digits
+- the smallest number found in the file
+- the largest number found in the file
+- how many odd numbers there are
+- how many even numbers there are
+
